@@ -204,6 +204,63 @@ Short description.
 
   Reduces waste in the fashion industry, by offering on-demand production of clothing at scale. Unmade was born out of a desire to re-imagine both the design and manufacturing processes within the fashion industry, so brands only make what is actually sold, resulting in minimal waste.
 
+Big Companies
+1. Ben & Jerry's
+Ben & Jerrys ice cream cartBen and Jerry's plans to "address plastic cups and lids" by the end of 2020, according to its website.If you visit any of Ben & Jerry’s 600-plus scoop shops worldwide, you’ll notice its spoons and straws don’t look like they used to. The ice cream company took steps to reduce its single-use plastic products this year by replacing its plastic spoons with wooden ones and offering paper straws instead of plastic ones. The company also sources its paperboard packaging from forests that are managed for the protection of wildlife and biodiversity. According to its website, by the end of 2020, Ben & Jerry’s "will find an alternative to clear plastic cups, plastic-lined cups, and plastic lids.”
+
+2. Costco
+Costco Reports Q3 Profits Up 12.3 PercentA number of Costco's Kirkland products, such as its baby wipes and paper towels, are certified by popular environmental groups. 
+The popular grocer uses its Kirkland product line to help in a variety of ways. For example, since 2012, “Costco has invested over $3.3 million in honey bee health by contributing a portion of its sales of Kirkland Signature Honey items to the nonprofit honey bee research organization Project Apis m,” according to its website. Costco's bee project includes funding scholarships for those studying bee preservation and providing beekeepers with more technical support.
+
+In addition, 95% of Kirkland toilet paper, facial tissue, paper towels and napkins are either certified by one of three major forest protection and development groups: Forest Stewardship Council, Programme for the Endorsement of Forest Certification or Sustainable Forestry Initiative.
+
+
+3. Eileen Fisher
+One of Eileen Fisher's corporate goals is the use of only organic fibers, recycled fibers and sustainable fibers.
+
+Since 2009, the American fashion company’s Waste No More program has taken more than 1 million pieces of its used clothes from customers and reused them. Additionally, Eileen Fisher has partnerships with multiple organizations working to help address pollution and climate change. For example, the company is part of the American Sustainable Business Council, which advocates for eco-friendly public policy. Looking forward, the company has a number of 2020 goals, like using only organic cotton and linen, and sourcing wool from sheep that are responsibly raised.
+
+4. Gap
+Gap partners with groups like the United States Agency for International Development to promote access to clean water.
+
+Gap Inc., which owns Gap, Athleta, Old Navy and other brands, has made a number of renewable energy deals to reduce its carbon footprint. The company has also installed LED lighting, which uses much less energy than conventional lights, at more than 1,000 of its stores. The clothing retailer has multiple eco-friendly goals that it is working to reach by the end of 2020, including reducing its greenhouse gas emissions by 50% in its owned and operated facilities, and reducing its water use during manufacturing by 10 billion liters.
+
+5. Ikea
+Ikea will use only renewable and recycled materials by 2030, according to its website.
+The popular furniture giant is working toward a number of goals for 2020, including making sure all wood is recycled or certified by the Forest Stewardship Council, and producing as much renewable energy as the company consumes. So far, more than 700,000 solar panels have been installed on Ikea buildings around the world.
+
+Since 2015, all cotton in Ikea’s products comes from "more sustainable sources," meaning the cotton is either recycled or grown with less water, chemical fertilizer and pesticides, according to the company's website.
+
+6. Klean Kanteen
+Klean Kanteen is a member of the California Business Alliance for a Green Economy, a community of businesses promoting fossil fuel independence.
+Among a number of green initiatives, Klean Kanteen offsets its greenhouse gas emissions by purchasing renewable energy credits, which promote environmentally friendly power production. In addition, all of Klean Kanteen’s packaging is recycled from post-consumer waste or made from materials certified by the Forest Stewardship Council, which promotes responsible management of the world’s forests.
+
+
+HEALTH & WELLNESS
+Johnson & Johnson to recall 33,000 bottles of baby powder after asbestos found
+The water bottle company also runs its Green Shipping Program, in which a portion of shipping costs are used to purchase carbon offsets, or projects that capture and absorb carbon equal to the carbon footprint of the shipping. Plus, its website is fully powered by wind energy. Klean Kanteen is also part of 1% for the Planet, a group of companies that donates at least 1% of annual sales to environmental causes.
+
+7. Patagonia
+Patagonia is part of the Sustainable Apparel Coalition, which works to make the apparel supply chain less wasteful and better for the environment. 
+Patagonia provides grants to environmental groups working to fight climate change and protect biodiversity. Since 1986, the company has pledged to donate at least 1% of sales or 10% of profits (whichever is greater) to preserve nature. In addition, the clothing company also runs a “dating site,” where people can go online and match with environment-related volunteer opportunities in their area, in addition to other eco-friendly efforts.
+
+
+8. Seventh Generation
+All Seventh Generation products will be free of chronic toxins by 2025, according to the company's website. 
+
+In 2015, the cleaning and personal care company instituted a self-imposed carbon tax of sorts. For every 1 ton of carbon the company uses, it takes $12 and invests the money in programs focused on sustainability. As part of its 2020 climate-friendly goals, Seventh Generation hopes to exclusively use non-fossil fuel sources at its headquarters and its third-party manufacturers and distributors, as well as making all packaging biodegradable or recyclable.
+
+9. Toms Shoes
+Toms has given more than 60 million pairs of shoes to children in need.
+Toms footwear is famous for its principle that for every pair of shoes bought, a child in need also gets a pair. But it’s also doing some important work in sustainability. In 2014, the company launched Toms Roasting Co.; with each coffee purchase, a person in need is provided 140 liters, or roughly 37 gallons, of safe water (a one-week supply, according to the company). The company sells shoes with sustainable and vegan materials and is working to expand these offerings. All Toms shoeboxes are made from 80% recycled post-consumer waste and are printed with soy ink.
+
+10. Trader Joe’s
+In 2018, Trader Joe's donated nearly $370 million dollars of product, or about 60 million meals to combat hunger and avoid food waste, according to its website. 
+The popular grocery chain is making big changes to reduce waste. The company recently stopped offering single-use plastic carryout bags in all stores across the country and replaced plastic produce bags with biodegradable and compostable ones. In addition, shoppers no longer receive Styrofoam packages in the produce section — they get compostable alternatives instead. Trader Joe’s says it is committed to reducing product packaging and will continue to educate shoppers on how to reuse or recycle any packaging.
+
+
+
+
 ## More Resources
 
 - [Clean Tech Finland](http://www.cleantechfinland.com/web/cleantech) - Hub of Finnish clean tech companies.
